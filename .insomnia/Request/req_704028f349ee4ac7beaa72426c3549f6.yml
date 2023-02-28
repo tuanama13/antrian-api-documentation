@@ -1,0 +1,23 @@
+_id: req_704028f349ee4ac7beaa72426c3549f6
+type: Request
+parentId: fld_b18f698ef28d4e8a9227e779edddec57
+modified: 1677550614161
+created: 1677550552536
+url: "{{ _.base_url }}/settings"
+name: Get Setting
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: "{{ _.token }}"
+metaSortKey: -1677550552536
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

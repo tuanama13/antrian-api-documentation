@@ -1,0 +1,16 @@
+_id: env_d06a171640094c608a13fdea503a0b1c
+type: Environment
+parentId: env_18272b0432db88b469021fae4281e343c4135f44
+modified: 1677550656977
+created: 1677550461437
+name: DEV
+data:
+  base_url: https://www.baragecumalangkahrepo.com:3030
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJrb2RlX3RwIjoiMDAxIn0.7wlHafeuz69kBp5A9Inu2ICwsKvaHxr0rcxD-ZAkKXI
+dataPropertyOrder:
+  "&":
+    - base_url
+    - token
+color: null
+isPrivate: false
+metaSortKey: 1677550461438

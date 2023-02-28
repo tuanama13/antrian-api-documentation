@@ -1,0 +1,23 @@
+_id: req_f5f28f98ee93457c91c9aab88862ad25
+type: Request
+parentId: fld_f0e4819045544cc5b36d32094b3e6a87
+modified: 1677550893329
+created: 1677550849545
+url: "{{ _.base_url }}/runningtexts"
+name: Get Running Text
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: "{{ _.token }}"
+metaSortKey: -1677550849545
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
